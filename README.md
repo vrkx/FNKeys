@@ -1,10 +1,18 @@
 # FNKeys
-Fortnite keys for UModel or FModel, Most of credits goes to Bizzfarts and Blenux. I just did the Organization.
+
+### Fortnite Keys mostly used for extracting,managing or leaking content from the game using programs to extract UE assets such as UModel or FModel, these programs/tools will be linked and the end of this Readme, In this readme theres also the information of the version like The UE version, this is very needed since the U/FModel will ask for these.
+
+**DISCLAIMER :**
+I do not own and im not the official source of these keys,only thing that i own and did is the ReadMe.md, These keys exist thanks to Blenux and Bizzfarts,Official Source is linked below
+
+### Official Source [Here](https://pastebin.com/raw/SCWdTWbj)
+
+# Keys Avaible and Found, Listed by season.
 
 # Season 1
 | Build                         | Date           	 |  Engine Version |                               Key                                |
 | ----------------------------- | ---------------- | --------------- |------------------------------------------------------------------|
-| 14.12.2018                    | 2018             | UE4.16          | Y298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
+| 14.12.2018                    | 2017             | UE4.16          | Y298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L |
 
 # Season 2
 | Build                         | Date           	 |  Engine Version |                               Key                                |
@@ -29,15 +37,28 @@ Fortnite keys for UModel or FModel, Most of credits goes to Bizzfarts and Blenux
 | Build                         | Date           	 |  Engine Version |                               Key                                |
 | ----------------------------- | ---------------- | --------------- |------------------------------------------------------------------|
 | v7.10                         | 2018             | UE4.22          |0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714|
-| v7.20                         | 2018             | UE4.22          |0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6|
-| v7.30                         | 2018             | UE4.22          |0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4|
-| v7.40                         | 2018             | UE4.22          |0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F|
+| v7.20                         | 2019             | UE4.22          |0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6|
+| v7.30                         | 2019             | UE4.22          |0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4|
+| v7.40                         | 2019             | UE4.22          |0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F|
 
 # Season 8
 | Build                         | Date           	 |  Engine Version |                               Key                                |
 | ----------------------------- | ---------------- | --------------- |------------------------------------------------------------------|
-| v8.00                         | 2018             | UE4.23          |0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B|
-| v8.10                         | 2018             | UE4.23          |0x52C122AC39C8D56ED15834768A87D18AA26E74CA694060B9E6BCC1C39C0852FA|
-| v8.20                         | 2018             | UE4.23          |0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2|
-| v8.30                         | 2018             | UE4.23          |0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE|
-| v8.40                         | 2018             | UE4.23          |0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC|
+| v8.00                         | 2019             | UE4.23          |0xAC7AF84B59C4BD4F916F7EFCB292B3A5897CFF7DD7A688AC8B3791A4EDF32E7B|
+| v8.10                         | 2019             | UE4.23          |0x52C122AC39C8D56ED15834768A87D18AA26E74CA694060B9E6BCC1C39C0852FA|
+| v8.20                         | 2019             | UE4.23          |0x5F3B1AE176BF56D5FD1AA073DC01868692ABC11B9186BB12D9235072BBAEE8E2|
+| v8.30                         | 2019             | UE4.23          |0x808029B1FA7BD3108E3AD5D81E03B9CD001471FE1546B9B902A52113E3C01CEE|
+| v8.40                         | 2019             | UE4.23          |0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC|
+
+# Season 9
+| Build                         | Date           	 |  Engine Version |                               Key                                |
+| ----------------------------- | ---------------- | --------------- |------------------------------------------------------------------|
+| v9.00                         | 2019             | UE4.23          |0x38C910C99FF26B29B98FBCC8FA0FBB700DB7DADCBCDCB71C4D443A047B7280CE|
+| v9.10                         | 2019             | UE4.23          |0x67D061EFA8E049F7C62F1C460F14CD5AD7E601C13F3FB66F0FB090B72B721ACC|
+| v9.20                         | 2019             | UE4.23          |0xE47F0FE3C66BC50D65A92F93609710FEB580BD982017A7D3FC6DE7872197E0CA|
+| v9.30                         | 2019             | UE4.23          |0xCB2EB20E25AE4D7368F4C5DBB1238F15375DA55ABAB4EF75305265E2AD294BAC|
+| v9.40                         | 2019             | UE4.23          |0x6bd8d67b235476950deefc3f28646284462653c968331f0796c155a882dabb8a|
+
+# Fortnite Builds
+
+If you would like to extract old versions and don't got one this source may help you. https://github.com/simplyblk/Fortnitebuilds, If you would like to know where to get tools/programs to extract files and use these keys these are the best [UModel](https://www.gildor.org/en/projects/umodel),[FModel](https://fmodel.app/)
